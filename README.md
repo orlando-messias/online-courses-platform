@@ -1,1 +1,1 @@
-### online-courses-platform using GraphQL
+### online-courses-platform using Vite + GraphQL
